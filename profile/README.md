@@ -5,7 +5,7 @@
 ## Tech Stack
 
 * 🦾 TypeScript
-* 📦 yarn
+* 📦 pnpm
 * ⚡ Vite 3
 * 🖖 Vue 3 + Composition API
 * 🧩 VueUse 
