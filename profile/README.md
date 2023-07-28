@@ -6,7 +6,7 @@
 
 * 🦾 TypeScript
 * 📦 pnpm
-* ⚡ Vite 3
+* ⚡ Vite 4
 * 🖖 Vue 3 + Composition API
 * 🧩 VueUse 
 * 🧭 Vue Router 4
